@@ -32,8 +32,8 @@ file_put_contents("gif.txt",$Data1 );
 
 	file_put_contents("user_id.txt",$user_id );
 
-	$channel_id = 'آدرس کانال';
-	$label = '@تگ کانال';
+	$channel_id = ' آدرس کانال';
+	$label = '@ تگ کانال';
 	
 	$sent = 'پست مورد نظر در کانال ' . $channel_id . ' فرستاده شد 😊' ;
 	
