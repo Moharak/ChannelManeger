@@ -1,4 +1,17 @@
-ستاره یادتون نره :|
+
+# install Bot
+
+
+[Creator :|](https://telegram.me/Moharak)
+
+
+<b>Channel Manager</b>
+
+
+ستاره یادتون نره
+
+:|
+
 
 
 :)سلام
