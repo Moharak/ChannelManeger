@@ -4,13 +4,14 @@
 
 [Creator :|](https://telegram.me/Moharak)
 
+[اپن شده در کانال هکتور تیم](https://t.me/hektor_tm)
+
 
 <b>Channel Manager</b>
 
 
 ستاره یادتون نره
 
-:|
 
 
 
